@@ -27,6 +27,9 @@ totalseg_mapping = {1: 27, #'adrenal_gland_left',
 - TotalSegmentator：https://github.com/wasserth/TotalSegmentator
 - DAP：https://github.com/alexanderjaus/AtlasDataset/tree/main
 
+# contact
+If you interests in CT or PET/CT universal segmentation task and want to have a friend, contact me please. 
+如果你对于这个领域感兴趣，欢迎交流。我是北大医学在读博士生。
       
 
               
