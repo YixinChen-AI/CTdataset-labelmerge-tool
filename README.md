@@ -18,9 +18,15 @@ totalseg_mapping = {1: 27, #'adrenal_gland_left',
 
 表示totalsegmentator的index1对应DAP的index27，都是表示adrenal gland left的组织。后续会把代码整理好。
 
-- [todo] 完成报告
-- [ ] 检查邮件
-- [x] 安排会议
-                        
+
+- [x] totalsegmentator与DAP的标签映射关系
+- [ ] totalsegmentator数据中，每一个组织结构.nii.gz合并成一个nii.gz，用不同index表示不同组织结构。
+- [ ] totalsegmentator的合并标签向DAP标签转换函数
+
+# 相关repo
+- TotalSegmentator：https://github.com/wasserth/TotalSegmentator
+- DAP：https://github.com/alexanderjaus/AtlasDataset/tree/main
+
+      
 
               
